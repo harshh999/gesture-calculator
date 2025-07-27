@@ -1,14 +1,26 @@
-# Gesture Calculator
+# ✋ Gesture Calculator
 
-A gesture-controlled calculator using OpenCV & MediaPipe.  
-Move your hand and pinch (thumb + index finger) to select buttons.
+A **gesture-controlled calculator** built with **OpenCV** and **MediaPipe**.  
+Use your **hand gestures (pinch of thumb + index finger)** to press buttons on the virtual calculator.
 
-## Features
-- Hand tracking with MediaPipe
-- Virtual calculator UI with OpenCV
-- Pinch gesture to press keys
+---
 
-## Run
+## 🚀 Features
+- 🖐 **Hand Tracking** with MediaPipe
+- 🔢 **Virtual Calculator UI** drawn using OpenCV
+- 👆 **Pinch Gesture** to press buttons
+- ✨ Simple and lightweight (runs locally)
+
+---
+
+## 📸 Demo
+![Demo Screenshot](assets/demo.png)
+
+---
+
+## ⚡ Quick Start
+
+### 1. Clone the Repository
 ```bash
-pip install -r requirements.txt
-python main.py
+git clone https://github.com/harshh999/gesture-calculator.git
+cd gesture-calculator
